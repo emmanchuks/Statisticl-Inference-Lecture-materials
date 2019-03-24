@@ -1,1 +1,1 @@
-# Statisticl-Inference-Lecture-materials
+# Statistical-Inference-Lecture-materials
